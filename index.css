@@ -1,0 +1,30 @@
+.body{
+  background-color: black;
+}
+.intro {
+  background-color: black;
+  color: white;
+  margin-top: 80px;
+  text-align: center;
+  padding: 0;
+}
+#easter-img {
+  height: 200px;
+  width: 200px;
+
+}
+#valpo {
+height: 200px;
+width: 200px;
+}
+#patagonia {
+  height:200px;
+  width:200px;
+}
+#comments {
+  color: rgb(74, 17, 208);
+  font-size: 20px;
+}
+.bold {
+  font-weight: 900;
+}
